@@ -21,6 +21,8 @@ This component has been tested with WSO2 IS version 5.10.0 and following are the
   TokenExpiryTime = 300
   EnableAccountLockingForFailedAttempts = true
   showAuthFailureReason = true
+  usecase = "local"
+  secondaryUserstore = "primary"
 
     ```
 
